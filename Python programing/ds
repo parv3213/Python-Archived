@@ -1,0 +1,7 @@
+class person:
+        def_init_(self,id):
+            self.id=id
+    arjun =person(150)
+    arjun. dict_['age']=50
+    print arjun.age+len(arjun._dict_)
+

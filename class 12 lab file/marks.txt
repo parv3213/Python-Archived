@@ -1,0 +1,8 @@
+1,Parv,90
+2,Samyak,91
+3,Nehali,98
+4,Rohit,97
+32,Parv,43.0
+6,Manisha,10.0
+2,2,2.0
+5,Sonali,70	
